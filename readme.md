@@ -5,7 +5,7 @@ Library for [SparkEngine](https://github.com/rtkid/SparkEngine)
 ## Clone 
 
 ```
-git clone --recurse-submodules https://github.com/IltwMyLife/Spark.git
+git clone https://github.com/rtkid/SparkCore.git
 ```
 
 ## Setup
@@ -18,7 +18,3 @@ git clone --recurse-submodules https://github.com/IltwMyLife/Spark.git
 ```
 mkdir build && cd build && cmake .. && cmake --build .
 ```
-
-## Dependencies
-
-  
